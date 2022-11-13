@@ -1,2 +1,2 @@
 var myFirstName = "Maksim";
-var maLastName = "Simakov";
+var myLastName = "Simakov";
